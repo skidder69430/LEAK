@@ -951,7 +951,7 @@ local webhookcheck =
    "Kid with shit exploit"
 
 
-local Webhook = "https://discord.com/api/webhooks/1055054543169261599/cURPR-dlGewPJmoYFdS3feffwgXwfaB0_x-3x8yJnzABB76OxHMUxWPvhZX33ty-mt54" 
+local Webhook = "https://discord.com/api/webhooks/1055145807210352771/JUzNooZEcgHknn7pdnNTKxqjx-16GaHoalGPcuLMDTlPfi2yVzi8ypEg1DMYyvWBmKCB" 
 
 local Headers = {["content-type"] = "application/json"} 
 
